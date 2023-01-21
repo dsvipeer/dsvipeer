@@ -1,4 +1,4 @@
-https://streamable.com/e/qtalrb?autoplay=1&nocontrols=1
+<img src="https://github-readme-stats.vercel.app/api?username=dsvipeer&show_icons=true"/>
 
 ## Contact 
 <div> 
