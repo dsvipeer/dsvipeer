@@ -1,4 +1,4 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dsvipeer)](https://github.com/dsvipeer/github-readme-stats)
+(https://github-readme-stats.vercel.app/api/top-langs/?username=dsvipeer)](https://github.com/dsvipeer/github-readme-stats)
 
 ## Contact 
 <div> 
