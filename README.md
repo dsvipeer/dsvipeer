@@ -1,4 +1,4 @@
-<img src="https://github-readme-stats.vercel.app/api?username=dsvipeer&show_icons=true"/>
+[![dsvipeer's GitHub stats](https://github-readme-stats.vercel.app/api?username=dsvipeer)](https://github.com/dsvipeer/github-readme-stats)
 
 ## Contact 
 <div> 
