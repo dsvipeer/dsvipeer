@@ -1,4 +1,4 @@
-[![dsvipeer's GitHub stats](https://github-readme-stats.vercel.app/api?username=dsvipeer)](https://github.com/dsvipeer/github-readme-stats)
+[![dsvipeer's GitHub stats](https://github-readme-stats.vercel.app/api?username=dsvipeer)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contact 
 <div> 
