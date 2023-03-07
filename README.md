@@ -1,6 +1,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dsvipeer)](https://github.com/dsvipeer/github-readme-stats)
 
-[![Visits Badge](https://badges.strrl.dev/visits/dsvipeer/dsvipeer)](https://badges.strrl.dev)
+#### 👀Profile Visits 
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=dsvipeer.README)
 
 [![Years Badge](https://badges.strrl.dev/years/dsvipeer)](https://badges.strrl.dev)
 
