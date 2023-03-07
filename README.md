@@ -1,8 +1,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dsvipeer)](https://github.com/dsvipeer/github-readme-stats)
 
-<h3 align="left">My Discord:</h3>
+<h3 align="left">My Discord => ! vipeeerz7#9018:</h3>
 <p align="left">
-<a href="[https://discord.gg/2aE28CA8Sc](https://discord.gg/t3Pu2Xzp5w)"target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="2aE28CA8Sc" height="30" width="40" /></a>
+<a href="[https://discord.gg/t3Pu2Xzp5w]"target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="2aE28CA8Sc" height="30" width="40" /></a>
 </p>
 
 #### 👀Profile Visits 
