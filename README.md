@@ -6,7 +6,7 @@
 
 #### 👀Profile Visits 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=dsvipeer.README)
+![visitors](https://komarev.com/ghpvc/?username=your-github-dsvipeer)
 
 [![Years Badge](https://badges.strrl.dev/years/dsvipeer)](https://badges.strrl.dev)
 
