@@ -10,6 +10,8 @@
 
 [![Years Badge](https://badges.strrl.dev/years/dsvipeer)](https://badges.strrl.dev)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=dsvipeer)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## Contact 
 <div> 
   <a href="https://www.youtube.com/@zVipeer" target="_blank"><img src="https://img.shields.io/badge/-YouTube-%23EA4335?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
