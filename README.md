@@ -10,7 +10,9 @@
 
 [![Years Badge](https://badges.strrl.dev/years/dsvipeer)](https://badges.strrl.dev)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=dsvipeer)](https://github.com/ryo-ma/github-profile-trophy)
+<a href="[https://www.youtube.com/channel/UCetpMp7Q-pfgOhU-t1Fj7uA]">
+ <img alt="youtube subscribers" src="https://github-readme-youtube-stats.herokuapp.com/subscribers/index.php?id=[UCetpMp7Q-pfgOhU-t1Fj7uA]&key=[YOUR API KEY]"/>
+</a>
 
 ## Contact 
 <div> 
