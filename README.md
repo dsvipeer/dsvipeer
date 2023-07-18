@@ -2,7 +2,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dsvipeer)](https://github.com/dsvipeer/github-readme-stats)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dsvipeer&show_icons=true&theme=tokyonight&locale=en" alt="mathu-lmn" /></p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dsvipeer&show=reviews)
 
 #### 👀Profile Visits 
 
