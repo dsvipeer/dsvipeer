@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm dsvipeer</h1>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dsvipeer)](https://github.com/dsvipeer/github-readme-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dsvipeer&show=reviews)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=midnight-purple)
 
 #### 👀Profile Visits 
 
