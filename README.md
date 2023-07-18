@@ -2,7 +2,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dsvipeer&show_icons=true&theme=midnight-purple)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dsvipeer&repo=Reworked-POV-Fire-Rate-Reload-and-FOV-of-weapons)](https://github.com/dsvipeer/Reworked-POV-Fire-Rate-Reload-and-FOV-of-weapons)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dsvipeer&repo=Reworked-POV-Fire-Rate-Reload-and-FOV-of-weapons)](https://github.com/dsvipeer/Reworked-POV-Fire-Rate-Reload-and-FOV-of-weapons&show_icons=true&theme=midnight-purple)
 
 #### 👀Profile Visits 
 
