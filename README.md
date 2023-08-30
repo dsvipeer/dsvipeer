@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm dsvipeer</h1>
 
-
-[![dsvipeer's GitHub stats](github-readme-stats-nu-eight-89.vercel.app/api?username=dsvipeer)](https://github.com/dsvipeer/github-readme-stats)
-
-
 #### 👀Profile Visits 
 
 ![visitors](https://komarev.com/ghpvc/?username=your-github-dsvipeer)
