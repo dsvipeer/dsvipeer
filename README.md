@@ -1,3 +1,6 @@
+<!--💬GREETINGSTITLE / 🌐WEBSITE: https://github.com/denvercoder1/readme-typing-svg -->
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=%2379A500&height=67&duration=3000&center=true&lines=%F0%9F%85%B6%F0%9F%86%81%F0%9F%85%B4%F0%9F%85%B4%F0%9F%86%83%F0%9F%85%B8%F0%9F%85%BD%F0%9F%85%B6%F0%9F%86%82">
 <h1 align="center">Hi 👋, I'm dsvipeer | MajorFivePD [Cfx.re] </h1>
 
 ![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=dsvipeer&show_icons=true)
