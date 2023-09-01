@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm dsvipeer</h1>
+<h1 align="center">Hi 👋, I'm dsvipeer | MajorFivePD | zVipeer </h1>
+
+![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=dsvipeer&show_icons=true)
 
 #### 👀Profile Visits 
 
